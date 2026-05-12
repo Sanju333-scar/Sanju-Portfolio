@@ -56,13 +56,13 @@ const HeroContent: FC = () => {
         className="flex flex-col items-center justify-between gap-3 text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-tight"
       >
         <span className="text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-tight">
-          Ashlok Chaudhary
+          Sanju Sebastian
         </span>
         <PointerHighlight rectangleClassName="rounded-none">
-          <span className="text-primary p-3 text-3xl lg:text-6xl">Full-Stack Developer</span>
+          <span className="text-primary p-3 text-3xl lg:text-6xl">Devops Engineer</span>
         </PointerHighlight>
         <span className="text-base text-muted-foreground italic max-w-[500px] mx-auto">
-          Crafting clean, performant & responsive web experiences using modern technologies.
+          Bridging the gap between development and operations.
         </span>
       </motion.div>
 
@@ -83,7 +83,7 @@ const HeroContent: FC = () => {
           variant="dark"
           className="flex items-center gap-2 shadow outline"
           aria-label="github"
-          href="https://github.com/Ashlok2003"
+          href="https://github.com/Sanju333-scar"
         >
           <FaGithub className="mr-1" />
           <span>GitHub</span>
