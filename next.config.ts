@@ -6,7 +6,7 @@ setupDevPlatform().catch(console.error)
 import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
-  output: 'export',
+  
 
   webpack: (config) => {
     return config
