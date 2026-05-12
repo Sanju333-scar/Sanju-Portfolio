@@ -97,10 +97,10 @@ export async function POST(req: Request) {
     }
 
     return Response.json({ message: "Message sent successfully" });
-  } catch (err) {
-    return new Response(
-      JSON.stringify({ error: "Server error sending email" }),
-      { status: 500 }
-    );
+  } catch {
+  return new Response(
+    JSON.stringify({ error: "Server error sending email" }),
+    { status: 500 }
+  );
   }
 }
