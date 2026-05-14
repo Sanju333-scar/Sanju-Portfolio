@@ -15,47 +15,31 @@ import { BentoGrid, BentoGridItem } from '../ui/bento-grid'
 
 const projectsData = [
   {
-    title: 'ShopXIndia',
+    title: 'CiniRev',
     description:
-      'A microservices-based e-commerce platform using AWS ECS Fargate, CI/CD, and full observability on AWS.',
-    imageURL: '/shopxindia.png',
-    github: 'https://github.com/Ashlok2003/ShopxIndia',
-    live: 'https://github.com/Ashlok2003/ShopxIndia',
+      'A full-stack movie review & recommendation app. Browse movies, write reviews, manage watchlists, and get personalized recommendations using the Apriori association rule mining algorithm.',
+    imageURL: '/cinirev.png',
+    github: 'https://github.com/Sanju333-scar/cinirev',
+    live: 'https://lnkd.in/gQQZxTTy',
     icon: <IconClipboardCopy className="h-4 w-4 text-muted-foreground" />,
   },
   {
-    title: 'SocialPedia',
+    title: 'CI/CD Static Website',
     description:
-      'A social media platform with real-time chat, JWT auth, and responsive design using MERN stack.',
-    imageURL: '/socialpedia.png',
-    github: 'https://github.com/Ashlok2003/Socialpedia',
-    live: 'https://socialpedia-tau.vercel.app/',
+      'Deployed a static website on GitHub Pages with a fully automated CI/CD pipeline using GitHub Actions. Every push to main triggers an automatic build and deployment — full code-to-live pipeline.',
+    imageURL: '/cicd-website.png',
+    github: 'https://github.com/Sanju333-scar',
+    live: 'https://lnkd.in/evB_zCpF',
     icon: <IconFileBroken className="h-4 w-4 text-muted-foreground" />,
   },
   {
-    title: 'FileShareX',
-    description: 'File sharing app with QR code, SMTP email integration, and clean React UI.',
-    imageURL: '/filesharex.png',
-    github: 'https://github.com/Ashlok2003/File-Sharer',
-    live: 'https://file-sharer-sepia.vercel.app/',
-    icon: <IconSignature className="h-4 w-4 text-muted-foreground" />,
-  },
-  {
-    title: 'Portfolio',
+    title: 'Automated Linux Server Setup',
     description:
-      'Modern portfolio built with Next.js, TailwindCSS, and ShadCN, deployed on Cloudflare Pages.',
-    imageURL: '/portfolio-project.png',
-    github: 'https://github.com/Ashlok2003/portfolio',
-    live: 'https://ashlok.dev/',
-    icon: <IconTableColumn className="h-4 w-4 text-muted-foreground" />,
-  },
-  {
-    title: 'Scheduly.AI',
-    description: 'AI assistant for booking Google Calendar meetings via conversational chat.',
-    imageURL: '/scheduly-ai.png',
-    github: 'https://github.com/Ashlok2003/Scheduly.AI',
-    live: 'https://scheduly-ai-client.onrender.com/',
-    icon: <IconArrowWaveRightUp className="h-4 w-4 text-muted-foreground" />,
+      'Automated Linux server provisioning using Ansible. With a single command: installs NGINX, Docker, Git & UFW, creates a secure admin user, configures firewall rules, and hardens SSH security.',
+    imageURL: '/ansible-server.png',
+    github: 'https://lnkd.in/gpCi-vWs',
+    live: 'https://lnkd.in/gpCi-vWs',
+    icon: <IconSignature className="h-4 w-4 text-muted-foreground" />,
   },
 ]
 
