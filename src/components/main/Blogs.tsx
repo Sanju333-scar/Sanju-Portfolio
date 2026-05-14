@@ -7,35 +7,50 @@ import { useState } from 'react'
 const blogs = [
   {
     id: 1,
-    title: '🛒 ShopXIndia: A Scalable E-Commerce Platform',
+    title: '🎬 CiniRev: A Full-Stack Movie Review & Recommendation App',
     excerpt:
-      'Behind the scenes of ShopXIndia — a microservices-based e-commerce platform built with GraphQL Federation.',
-    content: `ShopXIndia is a fully-featured e-commerce platform built with a microservices architecture
-and powered by GraphQL Federation for unified APIs.
-It leverages modern technologies to provide a seamless shopping experience while keeping the backend
-modular and maintainable.
-In this blog, I discuss how I designed the federated services, implemented authentication,
-and optimized query performance for scalability.`,
+      'How I built a movie review app with Flutter, FastAPI, and PostgreSQL — featuring a recommendation system powered by the Apriori algorithm.',
+    content: `CiniRev is my final year BCA project — a full-stack movie review and recommendation app built using Flutter for the frontend, Python FastAPI for the backend, and PostgreSQL as the database.
+
+Users can browse and filter movies, write reviews and ratings, manage their watchlist, and receive personalized movie recommendations.
+
+The highlight of the project is the recommendation system built using the Apriori algorithm — an association rule mining technique that finds patterns like "users who liked Movie A also liked Movie B" to suggest relevant movies.
+
+Building CiniRev taught me how to design REST APIs with FastAPI, manage relational data in PostgreSQL, and deliver a smooth cross-platform UI with Flutter. It was a complete end-to-end experience from database design to deployment.`,
   },
   {
     id: 2,
-    title: '💬 SocialPedia: A Modern Social Media Platform',
+    title: '🚀 Deploying My First CI/CD Static Website on GitHub Pages',
     excerpt:
-      'From real-time chat to WebRTC calls — building SocialPedia, a full-stack social media app.',
-    content: `SocialPedia is a social media platform built using Node.js, React, MongoDB, Redux, WebSockets, and WebRTC.
-It supports features like real-time chat, notifications, friend management, and live audio/video calls.
-In this blog, I share how I implemented real-time capabilities, tackled state management challenges,
-and created an engaging, responsive user experience.`,
+      'How I set up a fully automated CI/CD pipeline using GitHub Actions to deploy a static website on GitHub Pages with every push.',
+    content: `This project was my first hands-on experience with the full code-to-live pipeline using DevOps practices.
+
+I deployed a static website built with HTML, CSS, and JavaScript on GitHub Pages, and automated the entire deployment process using GitHub Actions. Every push to the main branch triggers a workflow that builds and deploys the site automatically — no manual steps needed.
+
+The GitHub Actions workflow file (.github/workflows/pages.yml) handles the build and deploy steps, making the process fast, reliable, and repeatable.
+
+This project gave me practical experience with version control, CI/CD pipelines, build automation, and real-time hosting — core skills for any DevOps role.
+
+The site is live and the source code is open on GitHub.`,
   },
   {
     id: 3,
-    title: '🔒 FileShareX: Secure File Sharing Made Easy',
+    title: '🛠️ Automated Linux Server Setup with Ansible',
     excerpt:
-      'Designing and building FileShareX — a secure, simple, and user-friendly file sharing app.',
-    content: `FileShareX is a secure file-sharing application built with React, Node.js, and MongoDB.
-It enables users to share files easily using QR codes, email links, or direct links — no complex setup required.
-In this blog, I explain how I implemented secure file uploads & downloads, integrated QR and email sharing,
-and designed a clean UX for hassle-free collaboration.`,
+      'How I automated a complete Linux server setup using Ansible — installing tools, hardening SSH, and configuring firewalls with a single command.',
+    content: `As part of my hands-on learning in Linux System Administration and DevOps, I built an Ansible playbook that fully automates the setup of a Linux server from scratch.
+
+With a single command, the playbook:
+- Installs NGINX, Docker, Git, and UFW
+- Creates a secure admin user with proper permissions
+- Configures firewall rules using UFW
+- Hardens SSH security by disabling root login
+
+This project helped me understand real-world server provisioning, infrastructure automation, and security hardening practices that are essential in DevOps and cloud roles.
+
+Writing Ansible playbooks also gave me a solid understanding of idempotency — the ability to run the same playbook multiple times safely without breaking anything.
+
+The full playbook is available on GitHub.`,
   },
 ]
 
