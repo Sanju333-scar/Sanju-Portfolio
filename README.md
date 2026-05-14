@@ -1,56 +1,51 @@
-# 👋 Hi, I'm Ashlok Chaudhary
+# 👋 Hi, I'm Sanju Sebastian
 
-**_`Backend Developer`_ · _`Cloud & DevOps Enthusiast`_ · _`System Designer`_ · _`Frontend Explorer`_ · _`Lifelong Learner`_**
+**_`DevOps Engineer`_ · _`Cloud Enthusiast`_ · _`Python Developer`_ · _`React Developer`_ · _`Lifelong Learner`_**
 
-> _Engineering solutions with precision, scalability, and reliability at the core._
-
+> _From code to cloud — automating, deploying, and scaling with precision._
 
 ## About Me
 
-Hello, World! I am Ashlok Chaudhary — a backend developer and cloud enthusiast passionate about building **scalable**, **secure**, and **high-performance** systems.
+Hello, World! I am Sanju Sebastian — a DevOps enthusiast and full-stack developer passionate about building **reliable**, **automated**, and **scalable** systems.
 
-With experience across _**`Java`**_, _**`Javascript`**_, _**`Typescript`**_, _**`Node.js`**_,and modern cloud-native technologies, I specialize in designing maintainable architectures, optimizing **system performance**, and delivering robust solutions that scale seamlessly. Beyond work, I enjoy exploring new technologies, contributing to open-source projects, and refining my skills in **distributed systems** and **cloud infrastructure**.
+With experience in _**`Python`**_, _**`React.js`**_, _**`FastAPI`**_, and modern DevOps tools, I specialize in CI/CD pipelines, containerization, cloud infrastructure, and delivering robust solutions that scale seamlessly. Beyond work, I enjoy exploring new technologies and refining my skills in **Linux administration** and **cloud infrastructure**.
 
-One of my key projects, **ShopXIndia**, is a microservice-based platform powered by _**`AWS Cloud`**_ and _**`GraphQL Federation`**_, providing scalable, high-performance services through a unified API. It leverages cloud infrastructure, automated CI/CD pipelines, _**`Docker`**_, and an event-driven architecture for enhanced security, performance, and reliability.
+One of my key projects, **CiniRev**, is a full-stack movie review and recommendation app powered by _**`FastAPI`**_ and _**`PostgreSQL`**_, featuring a personalized recommendation system using the **Apriori algorithm**.
 
-I'm also working on cloud-native orchestration tools and distributed task scheduling systems to push the boundaries of modern backend engineering.
+I'm also working on automated infrastructure projects using **Ansible** and **GitHub Actions** to push the boundaries of modern DevOps engineering.
 
-✨ **_Let’s connect and build something impactful!_** ✨
+✨ **_Let's connect and build something impactful!_** ✨
 
 ---
+
 ## Stack
 
 > I leverage a diverse set of technologies to build **scalable**, **robust**, and **high-performance** systems.
 
 | | | | | | | | | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40" /> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40" height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="40" height="40" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" title="Kubernetes" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40" title="GitHub Actions" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" title="Linux" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" title="Azure DevOps" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" title="Bash" /> |
+
 ---
 
+## ⚡ What I'm Building
 
-## ⚡ What I’m Building
-
-- **Building high-performance backend systems** with `Rust` & `Go`, focusing on _distributed task scheduling_ that is **reliable** and **scalable**.
-- **Deepening expertise** in _Kubernetes operators_, `cloud-native architectures`, and **scalable infrastructure patterns**.
-- **Contributing to open-source projects** that solve _real-world challenges_ and push **engineering boundaries**.
-- **Exploring** `event-driven architectures`, _microservices orchestration_, and **performance optimization** for **complex, large-scale systems**.
+- **Automating infrastructure** with `Ansible` and `GitHub Actions`, focusing on _reliable, repeatable server provisioning_.
+- **Deepening expertise** in _Kubernetes_, `Docker`, and **CI/CD pipelines**.
+- **Building full-stack applications** like `CiniRev` that combine smart algorithms with clean user experiences.
+- **Exploring** `DevOps best practices`, _Linux system administration_, and **cloud infrastructure on AWS & Azure**.
 
 ---
 
 ## Connect with Me
 
-> _I’m always open to collaboration, knowledge-sharing, and exciting opportunities_
-> _Let’s connect and build something amazing together !_
+> _I'm always open to collaboration, knowledge-sharing, and exciting opportunities_
+> _Let's connect and build something amazing together!_
 
-
-| | | | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| <a href="https://ashlok.dev/"><img src="https://i.postimg.cc/sgHV6s8f/ashlok-removebg-preview.png" width="40" height="40"/></a> | <a href="https://www.linkedin.com/in/ashlok2003/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a> | <a href="mailto:chaudharyashlok@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40" height="40"/></a> | <a href="https://www.reddit.com/user/Ashlok2003/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" width="40" height="40"/></a> | <a href="https://www.instagram.com/real.ashlok/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/></a> | <a href="https://x.com/ashlok2003"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40" height="40"/></a> | <a href="https://www.facebook.com/profile.php?id=61555231157720"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="40" height="40"/></a> | <a href="https://github.com/Ashlok2003"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/></a> | <a href="https://stackoverflow.com/users/23146889/ashlok-choudhary"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="40" height="40"/></a> | <a href="https://gitlab.com/ashlok2003"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a> | <a href="https://medium.com/@ashlokchaudhary"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="40" height="40"/></a> | <a href="https://dev.to/ashlokchaudhary"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/devdotto.svg" width="40" height="40"/></a> | <a href="https://www.behance.net/ashlokchaudhary"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" width="40" height="40"/></a> | <a href="https://www.kaggle.com/ashlokchaudhary"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="40" height="40"/></a> | <a href="https://codepen.io/ashlokchaudhary"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codepen.svg" width="40" height="40"/></a> | <a href="https://www.hackerrank.com/ashlokchaudhary"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40" height="40"/></a> |
-
+| | | |
+|---|---|---|
+| <a href="https://sanju-portfolio-t2o45z3w9-sanju-sebastian-s-projects.vercel.app"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="40" height="40" title="Portfolio"/></a> | <a href="https://github.com/Sanju333-scar"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub"/></a> | <a href="https://www.linkedin.com/in/sanju-sebastian-392741338/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" title="LinkedIn"/></a> |
 
 <p align="center">
-  <strong>✨ Build with Purpose · Optimize with Precision · Scale with Confidence 🚀</strong>
+  <strong>✨ From code to cloud — automating, deploying, and scaling with precision 🚀</strong>
 </p>
-
-
