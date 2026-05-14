@@ -44,7 +44,7 @@ I'm also working on automated infrastructure projects using **Ansible** and **Gi
 
 | | | |
 |---|---|---|
-| <a href="https://sanju-portfolio-t2o45z3w9-sanju-sebastian-s-projects.vercel.app"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="40" height="40" title="Portfolio"/></a> | <a href="https://github.com/Sanju333-scar"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub"/></a> | <a href="https://www.linkedin.com/in/sanju-sebastian-392741338/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" title="LinkedIn"/></a> |
+| <a href="https://sanju-portfolio-obtaw7n82-sanju-sebastian-s-projects.vercel.app"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="40" height="40" title="Portfolio"/></a> | <a href="https://github.com/Sanju333-scar"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub"/></a> | <a href="https://www.linkedin.com/in/sanju-sebastian-392741338/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" title="LinkedIn"/></a> |
 
 <p align="center">
   <strong>✨ From code to cloud — automating, deploying, and scaling with precision 🚀</strong>
