@@ -19,8 +19,8 @@ const projectsData = [
     description:
       'A full-stack movie review & recommendation app. Browse movies, write reviews, manage watchlists, and get personalized recommendations using the Apriori association rule mining algorithm.',
     imageURL: '/cinirev.png',
-    github: 'https://github.com/Sanju333-scar/cinirev',
-    live: 'https://lnkd.in/gQQZxTTy',
+    github: 'https://github.com/Sanju333-scar/movie-review-app',
+    live: 'https://www.youtube.com/watch?v=hJTPLUlEVEs',
     icon: <IconClipboardCopy className="h-4 w-4 text-muted-foreground" />,
   },
   {
@@ -28,7 +28,7 @@ const projectsData = [
     description:
       'Deployed a static website on GitHub Pages with a fully automated CI/CD pipeline using GitHub Actions. Every push to main triggers an automatic build and deployment — full code-to-live pipeline.',
     imageURL: '/cicd-website.png',
-    github: 'https://github.com/Sanju333-scar',
+    github: 'https://sanju333-scar.github.io/my-static-website/',
     live: 'https://lnkd.in/evB_zCpF',
     icon: <IconFileBroken className="h-4 w-4 text-muted-foreground" />,
   },
@@ -37,8 +37,8 @@ const projectsData = [
     description:
       'Automated Linux server provisioning using Ansible. With a single command: installs NGINX, Docker, Git & UFW, creates a secure admin user, configures firewall rules, and hardens SSH security.',
     imageURL: '/ansible-server.png',
-    github: 'https://lnkd.in/gpCi-vWs',
-    live: 'https://lnkd.in/gpCi-vWs',
+    github: 'https://github.com/Sanju333-scar/linux-automation',
+    live: 'https://github.com/Sanju333-scar/linux-automation',
     icon: <IconSignature className="h-4 w-4 text-muted-foreground" />,
   },
 ]

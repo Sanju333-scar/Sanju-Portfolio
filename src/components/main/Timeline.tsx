@@ -103,7 +103,7 @@ const Timeline: FC = () => {
           className="text-center mb-16"
         >
           <h1 className="text-5xl font-bold tracking-tight text-primary">
-            Professional Experience & Projects
+            Professional Experience 
           </h1>
           <p className="mt-4 text-muted-foreground max-w-2xl mx-auto text-base">
             Highlights of my career and key projects showcasing my skills & impact.
