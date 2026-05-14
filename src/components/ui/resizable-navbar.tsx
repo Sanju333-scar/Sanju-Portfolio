@@ -237,7 +237,7 @@ export const NavbarLogo = ({ isScrolled }: { isScrolled: boolean }) => {
       aria-label="Navigate to About section"
     >
       <Image
-        src="/sanju.jpg"
+        src="/sanju.png"
         alt="Sanju Sebastian"
         width={32}
         height={32}
