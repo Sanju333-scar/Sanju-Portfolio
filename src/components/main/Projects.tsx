@@ -28,8 +28,8 @@ const projectsData = [
     description:
       'Deployed a static website on GitHub Pages with a fully automated CI/CD pipeline using GitHub Actions. Every push to main triggers an automatic build and deployment — full code-to-live pipeline.',
     imageURL: '/cicd-website.png',
-    github: 'https://sanju333-scar.github.io/my-static-website/',
-    live: 'https://lnkd.in/evB_zCpF',
+    github: 'https://github.com/Sanju333-scar/my-static-website',
+    live: 'https://sanju333-scar.github.io/my-static-website/',
     icon: <IconFileBroken className="h-4 w-4 text-muted-foreground" />,
   },
   {
