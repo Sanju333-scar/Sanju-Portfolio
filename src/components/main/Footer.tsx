@@ -26,20 +26,15 @@ const Footer: FC = () => {
 
   const socialLinks = [
     {
-      href: 'https://github.com/Ashlok2003',
+      href: 'https://github.com/Sanju333-scar',
       icon: <RxGithubLogo className="w-5 h-5" />,
       label: 'GitHub',
     },
     {
-      href: 'https://www.linkedin.com/in/ashlok2003/',
+      href: 'https://www.linkedin.com/in/sanju-sebastian-392741338/',
       icon: <FaLinkedin className="w-5 h-5" />,
       label: 'LinkedIn',
-    },
-    {
-      href: 'https://x.com/ashlok2003',
-      icon: <FaTwitter className="w-5 h-5" />,
-      label: 'Twitter',
-    },
+    }
   ]
 
   const quickLinks = ['About', 'Skills', 'Projects']
@@ -72,9 +67,9 @@ const Footer: FC = () => {
           animate="visible"
         >
           <motion.div className="space-y-4" variants={childVariants}>
-            <h1 className="text-2xl font-extrabold bg-clip-text">Ashlok Chaudhary</h1>
+            <h1 className="text-2xl font-extrabold bg-clip-text">Sanju Sebastian</h1>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Crafting scalable web apps, open-source tools, and innovative digital experiences.
+              Building reliable systems, automating pipelines, and turning code into production-ready infrastructure.
             </p>
           </motion.div>
 
@@ -126,7 +121,7 @@ const Footer: FC = () => {
           animate="visible"
         >
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Built with ❤️ by Ashlok Chaudhary.
+            © {new Date().getFullYear()} Built with ❤️ by Sanju Sebastian.
           </p>
           <p className="text-xs text-muted-foreground">
             Visitors:{' '}
